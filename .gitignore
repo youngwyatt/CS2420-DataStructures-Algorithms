@@ -1,0 +1,12 @@
+# Ignore all class files
+*.class
+
+# Ignore IntelliJ settings
+.idea/
+*.iml
+
+# Ignore build output
+out/
+
+# Ignore Mac-specific system file
+.DS_Store
